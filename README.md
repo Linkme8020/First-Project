@@ -1,2 +1,3 @@
 # First-Project
-IM new
+Im New
+this is my first project
